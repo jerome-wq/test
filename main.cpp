@@ -5,8 +5,6 @@ int main (){
 
     cout << "Hello World"<<endl;
     int x=0;
-    cout << x << endl;
-    int y=5;
-    cout << y+x << endl;
+    cout << x;
     return 0;
 }
