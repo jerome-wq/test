@@ -9,6 +9,8 @@ int main (){
     cout << endl;
     int y=6;
     cout << y<<endl;
+    int z=3;
+    cout <<z <<endl;
     
     return 0;
 }
