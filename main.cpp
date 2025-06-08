@@ -11,6 +11,7 @@ int main (){
     cout << y<<endl;
     int z=3;
     cout <<z <<endl;
-    
+    int t=22;
+    cout << t<<endl;
     return 0;
 }
